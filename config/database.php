@@ -40,11 +40,11 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => env('DB_HOST', '127.0.0.1'),
+            'host' => env('DB_HOST', 'appasw123.mysql.database.azure.com'),
             'port' => env('DB_PORT', '3306'),
-            'database' => env('DB_DATABASE', 'forge'),
-            'username' => env('DB_USERNAME', 'forge'),
-            'password' => env('DB_PASSWORD', ''),
+            'database' => env('DB_DATABASE', 'appaswbd'),
+            'username' => env('DB_USERNAME', 'charlycampos1979@appasw123'),
+            'password' => env('DB_PASSWORD', 'N3gr1t@51'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
@@ -55,11 +55,11 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'host' => env('DB_HOST', '127.0.0.1'),
+            'host' => env('DB_HOST', 'appasw123.mysql.database.azure.com'),
             'port' => env('DB_PORT', '5432'),
-            'database' => env('DB_DATABASE', 'forge'),
-            'username' => env('DB_USERNAME', 'forge'),
-            'password' => env('DB_PASSWORD', ''),
+            'database' => env('DB_DATABASE', 'appaswbd'),
+            'username' => env('DB_USERNAME', 'charlycampos1979@appasw123'),
+            'password' => env('DB_PASSWORD', 'N3gr1t@51'),
             'charset' => 'utf8',
             'prefix' => '',
             'schema' => 'public',

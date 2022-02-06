@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                    APP de tareas de Charly Hernan Campos Guerra - 40224364
                 </a>
             </div>
 
